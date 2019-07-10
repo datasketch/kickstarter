@@ -1,0 +1,9 @@
+{
+    "path" : "~/Repos/kickstarter",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

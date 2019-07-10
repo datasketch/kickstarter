@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562766370586.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7134F55B",
+    "lastKnownWriteTime" : 1562765915,
+    "last_content_update" : 1562766370586,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B9831D6E",
+        "caption" : "kick_money",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=kick_money&cache_key=B9831D6E",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "object" : "kick_money",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
