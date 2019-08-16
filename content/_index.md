@@ -2,22 +2,22 @@
 title: '#SaveTheData'
 team:
   - name: Juan Pablo Marín
-    description: Ingeniero electrónico con máster en estadística computacional. Experto en ciencia de datos con aplicaciones en múltiples áreas como la economía, hidrología y periodismo.
+    description: Electronic engineer with a master's degree in Computational Statistics. Expert in Data Science with applications in multiple areas such as Economics, Hydrology and Journalism.
     image: /img/team/juanpablo.jpg
   - name: Camila Achuri
-    description: Estadística y experta en lenguaje de programación R. Ha desarrollado diversas aplicaciones de visualización de datos en temas de movilidad y datos abiertos.
+    description: Statistics scientist and expert in R programming language. She has developed various applications of data visualization in transportation and Open Data subjects.
     image: /img/team/camila.jpg
   - name: Juliana Galvis
-    description: Politóloga y candidata a magíster en Humanidades Digitales. Actualmente lidera el desarrollo de la base de datos Who Is, además de apoyar investigaciones periodísticas y creación de bases de datos.
+    description: Politologist and candidate for a master's degree in Digital Humanities. She is currently leading the development of the Who Is database, as well as supporting journalistic research and the creation of databases.
     image: /img/team/juliana.png
   - name: David Daza
-    description: Licenciado en Electrónica. Experto en desarrollo de aplicaciones y sitios web con énfasis en periodismo de datos y gestión de contenidos de múltiples bases de datos.
+    description: Bachelor of Electronics. Expert in development of applications and websites with emphasis on data journalism and content management of multiple databases.
     image: /img/team/david.png
   - name: Verónica Toro
-    description: Antropóloga e investigadora. Encargada de la gestión y organización de la comunidad datera en Colombia y Latinoamérica, además de apoyar las investigaciones periodísticas y la creación de bases de datos.
+    description: Anthropologist and researcher. Responsible for the management and organization of the data-community in Colombia and Latin America and provide support in journalistic investigations and the creation of databases.
     image: /img/team/veronica.png
   - name: Mariana Villamizar
-    description: Ingeniera de Sistemas y diseñadora. Experta en experiencia de usuario, visualización de datos y comunicación gráfica. Feminista.
+    description: Systems engineer and designer. Expert in user experience, data visualization and graphic communication. Feminist.
     image: /img/team/mariana.png
   - name: Lorena Cala
     description: Industrial designer with experience and interest in the conception of ideas and communication measures for marketing, branding and design thinking.
