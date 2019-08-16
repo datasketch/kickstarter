@@ -52,7 +52,7 @@
 
 .features .box_container {
   display: flex;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .feature {
