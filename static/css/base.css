@@ -1,6 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 .bold {
@@ -18,10 +19,6 @@ h1 {
 
 h2 {
   font-size: calc(12px + (35 - 12) * ((100vw - 320px) / (2560 - 320)));
-}
-
-h4 {
-
 }
 
 h6 {

@@ -1,3 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "#SaveTheData"
+googleAnalytics = "UA-66152192-3"

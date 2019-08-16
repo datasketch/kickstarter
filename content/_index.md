@@ -20,7 +20,7 @@ team:
     description: Ingeniera de Sistemas y diseñadora. Experta en experiencia de usuario, visualización de datos y comunicación gráfica. Feminista.
     image: /img/team/mariana.png
   - name: Lorena Cala
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    description: Industrial designer with experience and interest in the conception of ideas and communication measures for marketing, branding and design thinking.
     image: /img/team/lorena.jpg
 features:
   - image: /img/features/mock1.png

@@ -3,9 +3,6 @@
 }
 
 .features .title_container {
-  /* background-image: url("/img/divider_thick.svg");
-  background-repeat: repeat-x;
-  background-position: center; */
   padding-bottom: calc(20px + (50 - 20) * ((100vw - 320px) / (2560 - 320)));
 }
 
@@ -16,7 +13,6 @@
 .features .box {
   width: 100%;
   display: flex;
-  /* flex-wrap: wrap-reverse; */
   flex-direction: column-reverse;
   justify-content: space-around;
   align-items: center;
