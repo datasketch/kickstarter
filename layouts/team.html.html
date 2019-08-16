@@ -1,0 +1,9 @@
+{{ define "team" }}
+<div class="md-content">
+  <h1>Team</h1>
+  {{ range $member := .Params.team }}
+  <h2>{{ $member.name }}</h2>
+  <p>{{ $member.age }}</p>
+  {{ end }}
+</div>
+{{ end }}

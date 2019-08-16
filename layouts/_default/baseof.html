@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <title>{{.Site.Title}}</title>
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,800,800i&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/navbar.css">
+  <link rel="stylesheet" href="/css/home.css">
+  <link rel="stylesheet" href="/css/subscribe.css">
+  <link rel="stylesheet" href="/css/mailchimp.css">
+  <link rel="stylesheet" href="/css/problems.css">
+  <link rel="stylesheet" href="/css/founder.css">
+  <link rel="stylesheet" href="/css/features.css">
+  <link rel="stylesheet" href="/css/team.css">
+
+  <link rel="stylesheet" href="/css/footer.css">
+</head>
+<body>
+  {{ partial "navbar.html" . }}
+  {{ block "body" . }}{{end}}
+  {{ partial "footer.html" . }}
+</body>
+</html>

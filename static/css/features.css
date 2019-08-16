@@ -1,0 +1,152 @@
+.features {
+  padding-top: calc(50px + (100 - 50) * ((100vw - 320px) / (2560 - 320)));
+}
+
+.features .title_container {
+  /* background-image: url("/img/divider_thick.svg");
+  background-repeat: repeat-x;
+  background-position: center; */
+  padding-bottom: calc(20px + (50 - 20) * ((100vw - 320px) / (2560 - 320)));
+}
+
+.features .title {
+  padding: calc(7px + (10 - 7) * ((100vw - 320px) / (2560 - 320)));
+}
+
+.features .box {
+  width: 100%;
+  display: flex;
+  /* flex-wrap: wrap-reverse; */
+  flex-direction: column-reverse;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.features .mockup, .features .info {
+  width: 100%;
+}
+
+.features .mockup img {
+  width: 90%;
+  height: auto;
+}
+
+.features .info img {
+  width: 50px;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.features .info h2 {
+  text-transform: uppercase;
+  padding: 10px 50px;
+  line-height: 1.25em;
+}
+
+.features .info p {
+  padding-left: calc(50px + (200 - 50) * ((100vw - 320px) / (780 - 320)));
+  padding-right: calc(50px + (200 - 50) * ((100vw - 320px) / (780 - 320)));
+  line-height: 1.25em;
+  padding-bottom: 0px;
+  text-align: center;
+  font-size: calc(12px + (15 - 12) * ((100vw - 768px) / (780 - 320)));
+}
+
+.features .box_container {
+  display: flex;
+  overflow-x: hidden;
+}
+
+.feature {
+  flex-shrink: 0;
+  width: 100%;
+  animation: move 20s ease-in infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-100%);
+  }
+  45% {
+    transform: translateX(-100%);
+  }
+  50% {
+    transform: translateX(-200%);
+  }
+  70% {
+    transform: translateX(-200%);
+  }
+  75% {
+    transform: translateX(-300%);
+  }
+  95% {
+    transform: translateX(-300%);
+  }
+}
+
+.progress-bar {
+  background-image: url("/img/progress_bar.svg");
+  background-position: center;
+  background-size: cover;
+  height: 20px;
+}
+
+.progress-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  animation: progress 5s ease-in infinite;
+}
+
+@keyframes progress {
+  0% {
+    left: 0;
+  }
+  90% {
+    left: 100%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+@media screen and (min-width: 780px) {
+
+  .features .box {
+    flex-direction: row;
+    padding-top: 0px;
+  }
+
+  .features .mockup {
+    width: 60%;
+    text-align: center;
+  }
+
+  .features .info {
+    width: 40%;
+    text-align: center;
+    padding-right: 20px;
+  }
+
+  .features .info img {
+    width: 65px;
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  .features .info p {
+    padding: 10px 50px;
+    font-size: calc(12px + (25 - 12) * ((100vw - 768px) / (2560 - 780)));
+  }
+}
