@@ -3,7 +3,7 @@
     <img src="/img/logo_vertical.svg" alt="Logo Datasketch">
   </div>
   <div class="box contact">
-    <h4 class="white bold">CONTACT US</h4>
+    <h4 class="white bold">{{ if eq .Site.Language.Lang "en" }} CONTACT US {{else}} CONTÁCTANOS {{end}}</h4>
     <div class="socialmedia">
       <a href="https://twitter.com/datasketch"><img class="icon" src="/img/twitter.svg" alt="Twitter"/></a>
       <a href="mailto: info@datasketch.co"><img class="icon" src="/img/mail.svg" alt="Email"/></a>
@@ -12,6 +12,6 @@
   </div>
   <div class="box copyright">
     <img src="/img/copyright.svg" alt="CC-BY-SA icon">
-    <p class="white">Everything in this webpage, unless specified otherwise, is CC-BY-SA. If you reuse or adapt resources, please make a reference to our page.</p>
+    <p class="white">{{ if eq .Site.Language.Lang "en" }} Everything in this webpage, unless specified otherwise, is CC-BY-SA. If you reuse or adapt resources, please make a reference to our page. {{else}} Todo el material en esta página, cuando no se indique lo contrario, es CC-BY-SA. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos. {{end}}</p>
   </div>
 </footer>

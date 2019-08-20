@@ -6,17 +6,17 @@
       <div class="mc-field-group">
         <!-- <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
         </label> -->
-        <input type="text" value="" name="FNAME" class="required input" placeholder="First name*" id="mce-FNAME">
+        <input type="text" value="" name="FNAME" class="required input" placeholder='{{ if eq .Site.Language.Lang "en" }} First name* {{else}} Nombre* {{end}}' id="mce-FNAME">
       </div>
       <div class="mc-field-group">
         <!-- <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
         </label> -->
-        <input type="text" value="" name="LNAME" class="required input" placeholder="Last name*" id="mce-LNAME">
+        <input type="text" value="" name="LNAME" class="required input" placeholder='{{ if eq .Site.Language.Lang "en" }} Last name* {{else}} Apellido* {{end}}' id="mce-LNAME">
       </div>
       <div class="mc-field-group">
         <!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
         </label> -->
-        <input type="email" value="" name="EMAIL" class="required email input" placeholder="E-mail*" id="mce-EMAIL">
+        <input type="email" value="" name="EMAIL" class="required email input" placeholder='{{ if eq .Site.Language.Lang "en" }} E-mail* {{else}} Correo electrónico* {{end}}' id="mce-EMAIL">
       </div>
       <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
@@ -25,7 +25,7 @@
       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_357a1310b19ac3ea620ba55c9_66fe44c8c1" tabindex="-1" value=""></div>
       <div class="clear">
-        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+        <input type="submit" value='{{ if eq .Site.Language.Lang "en" }} Subscribe {{else}} Suscríbete {{end}}' name="subscribe" id="mc-embedded-subscribe" class="button">
       </div>
       </div>
   </form>
