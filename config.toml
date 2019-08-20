@@ -1,4 +1,10 @@
+DefaultContentLanguage = "en"
 baseURL = "/"
-languageCode = "en-us"
-title = "#SaveTheData"
 googleAnalytics = "UA-66152192-3"
+[languages]
+  [languages.en]
+    title = "#SaveTheData"
+    weight = 1
+  [languages.es]
+    title = "#SaveTheData"
+    weight = 2
