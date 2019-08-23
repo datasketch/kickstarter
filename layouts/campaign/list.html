@@ -1,0 +1,11 @@
+{{ define "body" }}
+  <div style="padding: 25vh 0; display: flex; align-items: center; justify-items: center; flex-direction: column">
+    <img src="/img/logo_bold.svg" alt="">
+    <p style="margin-top: 16px">{{ .Params.redirect }}</p>
+  </div>
+  <script>
+    window.addEventListener('load', () => {
+      window.location = 'https://www.kickstarter.com/projects/1442817441/359387152?ref=6aauqp&token=0de06836'
+    })
+  </script>
+{{ end }}
