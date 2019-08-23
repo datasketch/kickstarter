@@ -1,0 +1,54 @@
+.md-content {
+  margin: 0 auto;
+  padding: calc(12px + (20 - 12) * ((100vw - 320px) / (2560 - 320)));
+  width: 100%;
+}
+
+.md-content > * {
+  margin: 0 0 1rem;
+}
+
+.md-content p {
+  line-height: 2;
+}
+
+.md-content h1:not(.md-content-title),
+.md-content h2,
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+  margin: 32px 0;
+}
+
+.md-content-title {
+  color: #e515aa;
+  margin: 0 0 32px;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 640px) {
+  .md-content {
+    max-width: 640px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .md-content {
+    max-width: 768px;
+    width: 80%
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .md-content {
+    max-width: 1024px;
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .md-content {
+    max-width: 1280px;
+  }
+}

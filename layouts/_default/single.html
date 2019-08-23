@@ -1,0 +1,7 @@
+{{ define "body" }}
+  <div class="md-content">
+    <h1 class="md-content-title">{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+  {{ partial "mailchimp.html" . }}
+{{ end }}

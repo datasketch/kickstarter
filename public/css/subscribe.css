@@ -1,0 +1,33 @@
+.subscribe .icon {
+  text-align: center;
+  width: 100%;
+}
+
+.subscribe .icon img {
+  width: 65px;
+  height: auto;
+}
+
+.subscribe .title {
+  line-height: 1.2em;
+}
+
+.subscribe .title_container {
+  padding-right:  calc(70px + (600 - 70) * ((100vw - 320px) / (2560 - 320)));
+  padding-left:  calc(70px + (600 - 70) * ((100vw - 320px) / (2560 - 320)));
+  padding-top: calc(30px + (60 - 30) * ((100vw - 320px) / (2560 - 320)));
+}
+
+.subscribe .paragraph {
+  width: 45%;
+  margin: 0 auto;
+  padding-top: calc(30px + (50 - 30) * ((100vw - 768px) / (2560 - 320)));
+  padding-bottom: calc(30px + (50 - 30) * ((100vw - 768px) / (2560 - 320)));
+}
+
+@media screen and (min-width: 768px) {
+
+  .subscribe .paragraph {
+    width: 28%;
+  }
+}

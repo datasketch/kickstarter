@@ -4,9 +4,7 @@ googleAnalytics = "UA-66152192-3"
 [languages]
   [languages.en]
     title = "#SaveTheData"
-    contentDir = "content/en"
     weight = 1
   [languages.es]
     title = "#SaveTheData"
-    contentDir = "content/es"
     weight = 2

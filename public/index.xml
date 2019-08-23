@@ -1,25 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>#SaveTheData</title>
     <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on #SaveTheData</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>How to launch a kickstarter campaign and not die in the atempt, or not - with live updates (Kickstarter Perimortem)</title>
+      <link>/how-to-launch-a-kickstarter-campaign/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/how-to-launch-a-kickstarter-campaign/</guid>
+      <description>This post is the ultimate guide to launch a (un)successfull kickstarter campaign, only that we are writing this post live as we plan the launch. For the full history of the learning check out the github history) of this post.
+Why is it called Perimortem?. Because it is a &amp;ldquo;during mortem&amp;rdquo; post. See it live!
+The project Why Kickstarter Who we are What to launch Research Other projects Rewards Setup Contents Marketing How to plan and track your kickstarter The Set up Tools Airtable Google Docs Partners The video The brief The script The shooting Timeline Setup Pre-launch Launch day During campaign After campaign Marketing Ads Content Marketing Getting emails Your marketing database Tracking performance Experiments History of updates This is a list of relevant updates and their timing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/kickstarter-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kickstarter-page/</guid>
+      <description>Title: 60 caracteres SAVE THE DATA
+Describe what you’ll be creating 135 caracteres • been able to speak out about gender and corruption issues. With our data apps, journalists have been able to speak out about gender and corruption issues. We currently have 12 Datasketch Apps available in English and Spanish, which you can use for basic data cleaning, accessing open data and visualizing it with basic charts and maps.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/kickstarter-rewards-how-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kickstarter-rewards-how-to/</guid>
+      <description> Research Stories from others Hypothesis Big list of rewards How to prioritize them </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/rewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rewards/</guid>
+      <description>DIGITAL BUNDLE: E-book + Stickers + Pines + Postcard + Wallpaper WEARABLES: Tshirt , Tote bag, Cap, Canguro HOME &amp;amp; STUFF: Laptop sleeves, jigsaw puzzle, courtain STUDENT-TEACHER: Online course
+10 Make a pledge without a reward
+1.5 Limited to 181, sorry 180. Representing the countries who signed the Paris accord to stop global warming. • Virtual Hug / Come and have a minute of silence, Bath sun
+2 (Unlimited) The actual target of temperature • Virtual Hug / Come and have a minute of silence, Bath sun</description>
     </item>
     
   </channel>
