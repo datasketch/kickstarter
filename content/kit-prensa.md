@@ -21,11 +21,9 @@ Contar historias con datos se puede tornar muy difícil, por eso Datasketch Apps
 
 ## Imágenes para redes
 
-![nadando en datos](img/kit/)
-
-![cansada-limpiar](img/kit/cansada-limpiar.jpg)
-![como-usarlos](img/kit/como-usarlos.jpg)
-![detestas-mapas](img/kit/detestas-mapas.jpg)
-![nadando-datos](img/kit/nadando-datos.jpg)
+![cansada-limpiar](/img/kit/cansada-limpiar.jpg)
+![como-usarlos](/img/kit/como-usarlos.jpg)
+![detestas-mapas](/img/kit/detestas-mapas.jpg)
+![nadando-datos](/img/kit/nadando-datos.jpg)
 
 
