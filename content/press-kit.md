@@ -53,17 +53,4 @@ We need support from different users worldwide, so we develop more web data apps
 ![save-the-data](/img/kit/save-the-data-squared.png)
 ![save-the-data-wide](/img/kit/save-the-data-wide.png_
 
-![](/img/kit/en/campaign-image.png)
-![](/img/kit/en/charts-and-maps.png)
-![](/img/kit/en/cleaning-data.png)
-![](/img/kit/en/freedom-of-information.png)
-![](/img/kit/en/human-rights-violations.png)
-![](/img/kit/en/incomprehensible-data.png)
-![](/img/kit/en/make-decisions.png)
-
-![save the data](/img/kit/save-the-data-link.jpg)
-![como-usarlos](/img/kit/como-usarlos.jpg)
-![detestas-mapas](/img/kit/detestas-mapas.jpg)
-![nadando-datos](/img/kit/nadando-datos.jpg)
-
-
+[SEE MORE IMAGES HERE](kit-images)

@@ -46,18 +46,4 @@ Necesitamos el apoyo de usuarios de datos como periodistas o activistas de todo 
 ![save-the-data](/img/kit/save-the-data-squared.png)
 ![save-the-data-wide](/img/kit/save-the-data-wide.png_
 
-
-![](/img/kit/es/derecho-acceso-a-la-informacion.png)
-![](/img/kit/es/diagramas-y-mapas.png)
-![](/img/kit/es/imagen-equipo-cuadrada.png)
-![](/img/kit/es/imagen-equipo-horizontal.png)
-![](/img/kit/es/limpieza-de-datos.png)
-![](/img/kit/es/muchos-datos.png)
-![](/img/kit/es/nadando-en-datos.png)
-
-![cansada-limpiar](/img/kit/cansada-limpiar.jpg)
-![como-usarlos](/img/kit/como-usarlos.jpg)
-![detestas-mapas](/img/kit/detestas-mapas.jpg)
-![nadando-datos](/img/kit/nadando-datos.jpg)
-
-
+[SEE MORE IMAGES HERE](kit-images)
