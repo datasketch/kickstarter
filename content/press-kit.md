@@ -7,7 +7,7 @@ last_updated: 2019-08-24
 
 # Get inspiration
 
-- Interview with the founder 
+- Interview with the founder  http://www.storybench.org/how-colombias-datasketch-wants-to-make-data-visualization-easier-for-latin-american-newsrooms/
 
 
 # Questions
