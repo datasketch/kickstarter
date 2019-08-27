@@ -14,6 +14,17 @@ Entrevista con el fundador
 http://www.storybench.org/how-colombias-datasketch-wants-to-make-data-visualization-easier-for-latin-american-newsrooms/
 
 
+# Frases relevantes
+
+- Democratizar el acceso a datos a pequeñas organizaciones
+- Trabajamos por humanizar la información
+- Muchos problemas difíciles de solucionar requieren que las personas organicen los datos a mano
+- Hay muchos datos pero pocas personas saben qué hacer con ellos
+- Los datos son difíciles de encontrar y comunicar
+- No todas las organizaciones tienen los recursos para contratar un científico de datos, un programador o un diseñador
+- Contar historias con datos no es accesible si no tienes conocimientos técnicos
+
+
 # Preguntas
 
 ## Por qué hacemos esta campaña

@@ -11,6 +11,16 @@ Interview with the founder
 http://www.storybench.org/how-colombias-datasketch-wants-to-make-data-visualization-easier-for-latin-american-newsrooms/
 
 
+# Some important points
+
+- Democratize data access to small organizations
+- We work to humanize information
+- Many difficult problems to solve require humans to organize the data
+- There are lots of data but only few people know what to do with it
+- Data is difficult to find and communicate
+- Not all organizations have the resources to hire a data scientist, a programmer or a designer
+- Telling stories with data is not so straight forward if you do not have technical knowledge
+
 # Questions
 
 ## Why are we doing this
