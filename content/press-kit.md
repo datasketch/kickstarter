@@ -61,6 +61,6 @@ We need support from different users worldwide, so we develop more web data apps
 
 
 ![save-the-data](/img/kit/save-the-data-squared.png)
-![save-the-data-wide](/img/kit/save-the-data-wide.png_
+![save-the-data-wide](/img/kit/save-the-data-wide.png)
 
 [SEE MORE IMAGES HERE](kit-images)

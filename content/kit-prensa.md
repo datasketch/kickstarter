@@ -55,6 +55,6 @@ Necesitamos el apoyo de usuarios de datos como periodistas o activistas de todo 
 # Imágenes 
 
 ![save-the-data](/img/kit/save-the-data-squared.png)
-![save-the-data-wide](/img/kit/save-the-data-wide.png_
+![save-the-data-wide](/img/kit/save-the-data-wide.png)
 
 [SEE MORE IMAGES HERE](kit-images)
