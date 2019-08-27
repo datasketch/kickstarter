@@ -39,6 +39,10 @@ Necesitamos el apoyo de usuarios de datos como periodistas o activistas de todo 
 
 # Imágenes 
 
+![save-the-data](/img/kit/save-the-data-squared.png)
+![save-the-data-wide](/img/kit/save-the-data-wide.png_
+
+
 ![](/img/kit/es/derecho-acceso-a-la-informacion.png)
 ![](/img/kit/es/diagramas-y-mapas.png)
 ![](/img/kit/es/imagen-equipo-cuadrada.png)

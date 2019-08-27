@@ -49,6 +49,9 @@ We need support from different users worldwide, so we develop more web data apps
 # Images
 
 
+![save-the-data](/img/kit/save-the-data-squared.png)
+![save-the-data-wide](/img/kit/save-the-data-wide.png_
+
 ![](/img/kit/en/campaign-image.png)
 ![](/img/kit/en/charts-and-maps.png)
 ![](/img/kit/en/cleaning-data.png)
