@@ -5,6 +5,12 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
+# Get inspiration
+
+- Interview with the founder 
+
+
+# Questions
 
 ## Why are we doing this
 
@@ -39,13 +45,17 @@ Queremos crear 30 aplicaciones web para escalar tecnologías de datos con códig
 We need support from different users worldwide, so we develop more web data apps for them. That is, we need some financial push, but more importantly we want to work with a community of data enthusiasts, independent of their skill level so we call all tackle important issues using evidence and facts.
 
 
-Contar historias con datos se puede tornar muy difícil, por eso Datasketch Apps pretende cerrar la brecha entre quienes pueden procesar y comunicar datos y quienes no pueden hacerlo. Las aplicaciones permiten limpiar, analizar, visualizar y compartir información sin necesidad de recurrir a un experto programador o diseñador. Puedes explorar su catálogo de aplicaciones y seleccionar la que se ajuste a tus necesidades, subir datos y compartirlos con otros usuarios, limpiarlos, analizarlos, realizar gráficas, y utilizar su código abierto. 
-Descripción
+
+# Images
 
 
-
-## Images
-
+![](/img/kit/en/campaign-image.png)
+![](/img/kit/en/charts-and-maps.png)
+![](/img/kit/en/cleaning-data.png)
+![](/img/kit/en/freedom-of-information.png)
+![](/img/kit/en/human-rights-violations.png)
+![](/img/kit/en/incomprehensible-data.png)
+![](/img/kit/en/make-decisions.png)
 
 ![save the data](/img/kit/save-the-data-link.jpg)
 ![como-usarlos](/img/kit/como-usarlos.jpg)

@@ -32,6 +32,8 @@ Why is it called Perimortem?. Because it is a "during mortem" post. See it live!
 
 ### Marketing
 
+## Design process
+
 
 # How to plan and track your kickstarter
 
