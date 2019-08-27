@@ -10,7 +10,8 @@ Si estás interesado en escribir sobre Datasketch Apps, en este kit de prensa pu
 
 # Qué han dicho otros
 
-- Entrevista con el fundador  http://www.storybench.org/how-colombias-datasketch-wants-to-make-data-visualization-easier-for-latin-american-newsrooms/
+Entrevista con el fundador
+http://www.storybench.org/how-colombias-datasketch-wants-to-make-data-visualization-easier-for-latin-american-newsrooms/
 
 
 # Preguntas
