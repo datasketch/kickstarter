@@ -5,27 +5,20 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
+{{< iframe "https://www.kickstarter.com/projects/datasketch/savethedata/widget/video.html" >}}
 
 ![](/img/campana/campana_es.gif)
 
 Todos queremos tomar decisiones informadas, desafortunadamente tomarlas basadas en evidencia no siempre es sencillo: los datos no existen, son incompatibles o vienen en formatos inutilizables. Somos nosotros, los humanos, quienes muchas veces estructuramos manualmente la información que necesitamos para abordar problemas importantes. No podemos esperar años y años para tener una base de datos maestra del mundo, necesitamos resolver problemas ahora. Y una buena manera de hacerlo es de hecho colaborar compartiendo recursos (datos, conocimiento y código) para hacer el proceso más eficiente. Confiamos en que los datos se pueden usar para bien, pero todos debemos trabajar para cerrar la brecha entre quienes pueden procesar y comunicar datos y quienes no pueden hacerlo.
 
-
-
-
-
-
 ![](/img/campana/campana_es_problemas.png)
 
 Nunca encontraremos una solución única para todos los problemas de datos, el camino que creemos indicado es crear un ecosistema de soluciones para abordar necesidades muy específicas, especialmente para usuarios sin conocimientos tecnológicos. Eso es lo que estamos construyendo: aplicaciones de datos basadas en web, con una interfaz de apuntar y hacer clic, los usuarios pueden:
 
- Explorar el catálogo de aplicaciones de datos y seleccione la que necesitan
-     
- Cargar datos o usar datos compartidos por otros usuarios
-     
- Limpiar datos, analizarlos y crear múltiples gráficos
-     
- Publicar, compartir y colaborar (código abierto)
+- Explorar el catálogo de aplicaciones de datos y seleccione la que necesitan
+- Cargar datos o usar datos compartidos por otros usuarios
+- Limpiar datos, analizarlos y crear múltiples gráficos
+- Publicar, compartir y colaborar (código abierto)
 
 ![](/img/campana/campana_es_caracteristicas.png)
 
