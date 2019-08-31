@@ -12,7 +12,7 @@ last_updated: 2019-08-24
 
 ## Day 4
 
-I flew back to Bogota. The rest of the team stayed in Quito to try to "sell" the last merchandise. I am writing this flying over the Andes right now, finally took the time to update this [#SaveTheData](https://dskt.ch/2Zyk13m) diary. Managed to send some personal invitations over whatsapp to friends and family using a [custom link](make-custom-links) hoping to make pun: dskt.ch/simestima. Which in colombian spanish means something like "if you care about me..."
+I flew back to Bogota. The rest of the team stayed in Quito to try to "sell" the last merchandise. I am writing this flying over the Andes right now, finally took the time to update this [#SaveTheData](https://dskt.ch/2Zyk13m) diary. Managed to send some personal invitations over whatsapp to friends and family using a [custom link](/how-to/make-custom-links) hoping to make pun: dskt.ch/simestima. Which in colombian spanish means something like "if you care about me..."
 
 Right before boarding the plane I was able to talk to my friend who runs an agency. They will hopefully help us launch the right online campaign.
 
@@ -49,7 +49,7 @@ One very special donation came from a very good friend of us who runs a [Macroec
 
 We all flew to Quito, Ecuador. We are here because we are attending [Abrelatam](http://abrelatam.org) the most important Open Data conference in Latin America.
 
-We launched. We couln't finish on time all the messages we needed to prepare the launch. So basically relied on the support of those 200 individuals I messaged [personally](how-to/send-personalized-emails)
+We launched. We couln't finish on time all the messages we needed to prepare the launch. So basically relied on the support of those 200 individuals I messaged [personally](/how-to/send-personalized-emails)
 
 We messed up some of our launching pieces and images. We ended up making a message to use our product, when in reality we actually had to invite people to join our cause on Kickstarter.
 

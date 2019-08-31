@@ -13,7 +13,7 @@ Our campaign [#SaveTheData](https://dskt.ch/2Zyk13m) launched on August 27th, 20
 
 [![](/img/kit/1024x576.png)](https://dskt.ch/2Zyk13m)
 
-Check out [this page](how-to-updates) for updates on important events during the 39 days or our campaign.
+Check out [this page](/how-to-updates) for updates on important events during the 39 days or our campaign.
 
 
 We are writing this post live as we implement our campaign. Why is it called Perimortem?. Because it is a "during mortem" post. See it live!
@@ -23,8 +23,8 @@ The full history of the documented learnings is here in our [github repo](http:/
 
 # Quick links (on the works)
 
-- [Daily updates](how-to-updates)
-- [Our assumptions](our-assumptions)
+- [Daily updates](/how-to-updates)
+- [Our assumptions](/our-assumptions)
 - How to plan the campaign (coming soon)
 - Launch day (coming soon)
 - First week (coming soon)
@@ -38,7 +38,7 @@ It was actually harder for us to be able to launch on kickstarter, coming from C
 
 We feel other crowdfuning platforms are more directed to charity, or have a local/national reach. Kickstarter in our opinion has a built in community who pays for products, and that is what we need, as we are not only trying to get money. We are validating our assumptions about the business model and the market. It is very important that we pull this off.
 
-Happily we did it right on time not to [delay launch day](when-to-launch).
+Happily we did it right on time not to [delay launch day](/when-to-launch).
 
 
 # Who we are
@@ -149,9 +149,17 @@ MORE ON THIS LATER
 ## Partners
 
  
-# Timeline - The original plan
+# Timeline 
 
-TODO
+## When to launch
+
+Make sure you build your marketing database in advance (more on the marketing database later).
+
+We started creating a database of events relevant to your community and your audience. We knew that all our friends and sister organizations from different Latin American countries were gathering at [Abrelatam](http://abrelatam.org) the most important Open Data conference in Latin America.
+
+When we decided by june that we were going to launch a kickstarter campaign, we knew already that our launch date would be around this conference. One issue was that since we couldn't move our launch date, the actual launch ended up being more offline at the conference than offline, so we are few days behind.
+
+## TO DO
 
 - Setup
 - Pre-launch
