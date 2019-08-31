@@ -11,6 +11,8 @@ This post is the ultimate guide to launch a (un)successfull kickstarter campaign
 
 Our campaign [#SaveTheData](https://dskt.ch/2Zyk13m) launched on August 27th, 2019.
 
+[![](/img/kit/1024x576.png)](https://dskt.ch/2Zyk13m)
+
 Check out [this page](how-to-updates) for updates on important events during the 39 days or our campaign.
 
 
@@ -81,6 +83,16 @@ We created a  spreadsheet with every possible reward that we could do. Then we s
 - Does it bring value to those supporters that do not necessarily relate to our specific work with data and software?
 
 Our whole point is to democratize data, so we need to make the rewards an example in itself of something that can traverse borders and reach new audiences.
+
+More details (TODO):
+
+- Research
+- Stories from others
+- Hypothesis
+- Big list of rewards
+- How to prioritize them
+
+
 
 ## How did we choose reward tiers?
 
