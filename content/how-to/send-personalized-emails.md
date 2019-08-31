@@ -6,9 +6,6 @@ last_updated: 2019-08-24
 ---
 
 
-
-# GMass
-
 After some research we decided to go for GMass.
 
 It allows to send Merge email connecting straight in your email inbox. You can make searches and select all relevan contacts. You can also connect to a google sheet and import all your contacts. 

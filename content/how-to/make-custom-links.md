@@ -5,6 +5,9 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
+
+We wantd to 
+
 For a while now I have been looking to have our own url shortener.
 
 We went for bit.ly, only because I met [Hilary Mason](https://twitter.com/hmason) in NYC some years ago, when she was still working there.

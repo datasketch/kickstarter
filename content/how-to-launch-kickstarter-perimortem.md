@@ -1,5 +1,5 @@
 ---
-title: "#SaveTheData Press Kit - Images"
+title: "#SaveTheData Kickstarter Perimortem"
 author: "Juan Pablo Marín Díaz"
 date: 2019-08-24
 last_updated: 2019-08-24
@@ -16,7 +16,7 @@ Check out [this page](how-to-updates) for updates on important events during the
 
 We are writing this post live as we implement our campaign. Why is it called Perimortem?. Because it is a "during mortem" post. See it live!
 
-The full history of the documented learnings is here in our [github repo](http://github.com/datasketch/kickstarter))
+The full history of the documented learnings is here in our [github repo](http://github.com/datasketch/kickstarter)
 
 
 # Quick links (on the works)
@@ -125,43 +125,34 @@ MORE ON THIS LATER
 
 # How to plan and track your kickstarter
 
-## Tools
+## Tools used
 
-#### Airtable
+- **Airtable:** Best tool ever, we used it to plan the campaign and to organize our marketing database.
+- **Google Docs:** Very useful for live editing and discussing documents.
+- **Bit.ly:** [Custom short links](how-to/make-custom-links) for different stragies in our marketing campaign
+- **GMass:** To [send personalized emails](how-to/send-personalized-emails) straight from you gmail inbox.
 
-#### Google Docs 
-
-#### Bit.ly
-
-#### GMass
 
 ## Partners
 
  
 # Timeline - The original plan
 
-## Setup
+TODO
 
-## Pre-launch
-
-## Launch day
-
-## During campaign
-
-## After campaign
+- Setup
+- Pre-launch
+- Launch day
+- During campaign
+- After campaign
 
 
 # Marketing
 
-## Ads
-
-## Content Marketing
-
-## Getting emails
-
-## Your marketing database
-
-## Tracking performance
-
-## Experiments
+- Ads
+- Content Marketing
+- Getting emails
+- Your marketing database
+- Tracking performance
+- Experiments
 
