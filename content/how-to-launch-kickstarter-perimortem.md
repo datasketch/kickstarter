@@ -21,11 +21,12 @@ The full history of the documented learnings is here in our [github repo](http:/
 
 # Quick links (on the works)
 
-- How to plan the campaign 
-- Launch day
-- First week
+- [Daily updates](how-to-updates)
+- [Our assumptions](our-assumptions)
+- How to plan the campaign (coming soon)
+- Launch day (coming soon)
+- First week (coming soon)
 - What we don't know (yet?)
-- Our assumption
 
 
 
