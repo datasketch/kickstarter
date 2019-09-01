@@ -5,9 +5,18 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
+  <div class="button_container">
+    <a class="button" href="/how-to-launch-kickstarter-perimortem">
+      <div class="bold">CHECK OUT OUR PROCESS</div>
+    </a>
+  </div>
+
+
 ## Day 5
 
-?
+Got a fair amount of donations from the folks we were with at the Open Data conference. Worked on promoting on different slack channels and preparing, got some good positive feedback from people who work with data about the video. Ran a few ads to test the market in the US. We expect some conclusions about the tests in 2 days.
+
+**We reached $3.600 USD in donations**
 
 
 ## Day 4
