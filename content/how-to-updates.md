@@ -5,12 +5,15 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
+
+
   <div class="button_container">
     <a class="button" href="/how-to-launch-kickstarter-perimortem">
       <div class="bold">CHECK OUT OUR PROCESS</div>
     </a>
   </div>
 
+{{< float "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
 
 ## Day 5
 

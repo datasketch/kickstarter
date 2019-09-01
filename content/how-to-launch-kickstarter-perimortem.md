@@ -5,7 +5,7 @@ date: 2019-08-24
 last_updated: 2019-08-24
 ---
 
-
+{{< float "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
 
 This post is the ultimate guide to launch a (un)successfull kickstarter campaign (only time will tell).
 
