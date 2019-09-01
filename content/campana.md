@@ -4,7 +4,7 @@ author: "Juan Pablo Marín Díaz"
 date: 2019-08-24
 last_updated: 2019-08-24
 ---
-{{< float "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
+{{< float_es "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
 {{< iframe "https://www.kickstarter.com/projects/datasketch/savethedata/widget/video.html" >}}
 
 ![](/img/campana/campana_es.gif)
