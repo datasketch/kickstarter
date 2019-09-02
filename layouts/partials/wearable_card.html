@@ -1,0 +1,15 @@
+<div class="card">
+  <div class="card-image">
+    <img src="{{ .image | absURL }}" alt="">
+  </div>
+  <div class="card-body">
+    <small class="title-badge">{{ .product }}</small>
+    <p>{{ .design }}</p>
+    <small class="title-badge">{{ i18n "categories" }}</small>
+    <p>
+      {{ range .categories }}
+        <span class="badge">{{ . }}</span>
+      {{ end }}
+    </p>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+{{ define "head" }}
+  <link rel="stylesheet" href='{{ "css/rewards.css" | absURL }}'>
+{{ end }}
+
+{{ define "body" }}
+  <!-- Wearables -->
+  <div class="container" style="padding-top: 1rem; padding-bottom: 1rem">
+    <h2 class="pink" style="margin: 32px 0; font-weight: bold; font-size: 1.875rem;">{{ i18n "wearable" }}</h2>
+    <div class="cards">
+      {{ range .Params.items }}
+        {{ partial "wearable_card.html" . }}
+      {{ end }}
+    </div>
+    <script>
+      const images = document.querySelectorAll('.card-image img')
+      images.forEach(function (image) {
+        image.addEventListener('error', function () {
+          this.src = '/img/missing.png'
+        })
+      })
+    </script>
+  </div>
+{{ end }}

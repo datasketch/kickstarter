@@ -1,0 +1,13 @@
+<div class="card">
+  <div class="card-image">
+    <img src="{{ .image_url }}" alt="">
+  </div>
+  <div class="card-body">
+    <small class="title-badge">{{ i18n "pitfall" }}</small>
+    <p>{{ .pitfall_name }}</p>
+    <small class="title-badge">url</small>
+    {{ if .url }}
+      <p class="truncate"><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .url }}</a></p>
+    {{ end }}
+  </div>
+</div>
