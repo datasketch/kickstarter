@@ -1,0 +1,35 @@
+{{ define "head" }}
+  <link rel="stylesheet" href='{{ "css/rewards.css" | absURL }}'>
+{{ end }}
+
+{{ define "body" }}
+  <!-- Ebooks -->
+  <div class="container" style="padding-top: 1rem; padding-bottom: 1rem">
+    <h2 class="pink" style="margin: 32px 0; font-weight: bold; font-size: 1.875rem;">How to lie with visualizations</h2>
+    <div class="cards">
+      {{ range .Site.Data.ebook }}
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ .image_url }}" alt="">
+          </div>
+          <div class="card-body">
+            <small class="title-badge">pitfall</small>
+            <p>{{ .pitfall_name }}</p>
+            <small class="title-badge">url</small>
+            {{ if .url }}
+              <p class="truncate"><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .url }}</a></p>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+    <script>
+      const images = document.querySelectorAll('.card-image img')
+      images.forEach(function (image) {
+        image.addEventListener('error', function () {
+          this.src = '/img/missing.png'
+        })
+      })
+    </script>
+  </div>
+{{ end }}
