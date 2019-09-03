@@ -5,8 +5,7 @@ layout: wearables
 url: /es/recompensas/accesorios
 weight: 2
 banner: /img/rewards/wearables_banner.png
-description:  |
-    Cómo hacer que los ciudadanos interactúen con el contenido basado en datos? Estamos transformando nuestras historias en productos físicos: una plataforma para democratizar el acceso al conocimiento y a problemáticas relevantes en nuestra sociedad. Todo con diseños de datos y moda.
+description: "Cómo hacer que los ciudadanos interactúen con el contenido basado en datos? Estamos transformando nuestras historias en productos físicos: una plataforma para democratizar el acceso al conocimiento y a problemáticas relevantes en nuestra sociedad. Todo con diseños de datos y moda."
 label: true
 items:
   - image: img/rewards/tote_aborto.png
@@ -42,64 +41,64 @@ items:
     categories:
       - Género
   - image: img/rewards/tshirt_8m_v2.png
-    design: 8M 
+    design: 8M
     product: Camiseta
     description: "El 8 de marzo se celebran las luchas, las alianzas y las conquistas que han logrado las mujeres en el mundo. Con sus nombres, hacemos un homenaje a los triunfos de cientos de mujeres."
     categories:
       - Género
   - image: img/rewards/tshirt_8m_v3.png
-    design: 8M 
+    design: 8M
     product: Camiseta
     description: "El 8 de marzo se celebran las luchas, las alianzas y las conquistas que han logrado las mujeres en el mundo. Con sus nombres, hacemos un homenaje a los triunfos de cientos de mujeres."
     categories:
       - Género
   - image: img/rewards/tshirt_8m_v4.png
-    design: 8M 
+    design: 8M
     product: Camiseta
     description: "El 8 de marzo se celebran las luchas, las alianzas y las conquistas que han logrado las mujeres en el mundo. Con sus nombres, hacemos un homenaje a los triunfos de cientos de mujeres."
     categories:
       - Género
   - image: img/rewards/tshirt_aborto_v1.png
-    design: Siete legales 
+    design: Siete legales
     product: Camiseta
     description: "Según World Abortion Laws, solo en 7 de 37 países de América y el Caribe el aborto es legal y despenalizado sin ninguna restricción. Estos son: Uruguay, Cuba, Estados Unidos (donde la mayoría de mujeres pueden abortar legalmente), Canadá, Puerto Rico, Guyana y Guyana Francesa."
     categories:
       - Género
       - Derechos Humanos
   - image: img/rewards/tshirt_aborto_v2.png
-    design: Siete legales 
+    design: Siete legales
     product: Camiseta
     description: "Según World Abortion Laws, solo en 7 de 37 países de América y el Caribe el aborto es legal y despenalizado sin ninguna restricción. Estos son: Uruguay, Cuba, Estados Unidos (donde la mayoría de mujeres pueden abortar legalmente), Canadá, Puerto Rico, Guyana y Guyana Francesa."
     categories:
       - Género
       - Derechos Humanos
   - image: img/rewards/tshirt_lgbti.png
-    design: 1025 manchas rojas 
+    design: 1025 manchas rojas
     product: Camiseta
     description: "Desde enero de 2014 hasta diciembre de 2018 se registraron 1.025 asesinatos contra personas LGBTI en América Latina y el Caribe, según Colombia Diversa. Cada punto que conforma la mancha de sangre representa uno de estos asesinatos."
     categories:
       - Género
       - Derechos Humanos
   - image: img/rewards/tshirt_lideres_sociales_v1.png
-    design: 5XX Not Found 
+    design: 5XX Not Found
     product: Camiseta
     description: "En Colombia han asesinado más de 500 líderes sociales desde enero de 2016. Esta violación sistemática de los derechos humanos silencia a quienes defienden el territorio, protegen el medioambiente, promueven los derechos de la comunidad LGBTI y denuncian la minería ilegal y el narcotráfico, entre otras causas. El Estado no actúa y la impunidad continúa."
     categories:
       - Derechos Humanos
   - image: img/rewards/tshirt_lideres_sociales_v2.png
-    design: 5XX Not Found 
+    design: 5XX Not Found
     description: "En Colombia han asesinado más de 500 líderes sociales desde enero de 2016. Esta violación sistemática de los derechos humanos silencia a quienes defienden el territorio, protegen el medioambiente, promueven los derechos de la comunidad LGBTI y denuncian la minería ilegal y el narcotráfico, entre otras causas. El Estado no actúa y la impunidad continúa."
     product: Camiseta
     categories:
       - Derechos Humanos
   - image: img/rewards/tshirt_lideres_sociales_v3.png
-    design: 5XX Not Found 
+    design: 5XX Not Found
     product: Camiseta
     description: "En Colombia han asesinado más de 500 líderes sociales desde enero de 2016. Esta violación sistemática de los derechos humanos silencia a quienes defienden el territorio, protegen el medioambiente, promueven los derechos de la comunidad LGBTI y denuncian la minería ilegal y el narcotráfico, entre otras causas. El Estado no actúa y la impunidad continúa."
     categories:
       - Derechos Humanos
   - image: img/rewards/tshirt_lideres_sociales_v4.png
-    design: 5XX Not Found 
+    design: 5XX Not Found
     product: Camiseta
     description: "En Colombia han asesinado más de 500 líderes sociales desde enero de 2016. Esta violación sistemática de los derechos humanos silencia a quienes defienden el territorio, protegen el medioambiente, promueven los derechos de la comunidad LGBTI y denuncian la minería ilegal y el narcotráfico, entre otras causas. El Estado no actúa y la impunidad continúa."
     categories:

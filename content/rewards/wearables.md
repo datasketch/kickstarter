@@ -5,8 +5,7 @@ layout: wearables
 banner: /img/rewards/wearables_banner.png
 weight: 2
 label: true
-description: |
-    How do we get citizens to engage more actively with data driven content? We are transforming our data driven stories into physical products: a platform to democratize access to knowledge and inform citizens about issues of public debate in our society. All with nifty wearable data visualizations. 
+description: "How do we get citizens to engage more actively with data driven content? We are transforming our data driven stories into physical products: a platform to democratize access to knowledge and inform citizens about issues of public debate in our society. All with nifty wearable data visualizations."
 items:
   - image: img/rewards/tote_aborto.png
     design: 7 Legal
