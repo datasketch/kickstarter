@@ -5,6 +5,7 @@ layout: wearables
 banner: /img/rewards/wearables_banner.png
 weight: 2
 label: true
+description: Write description here about wearables
 items:
   - image: img/rewards/tote_aborto.png
     design: 7 Legal

@@ -24,6 +24,17 @@
   vertical-align: middle;
 }
 
+.banner {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1.5rem;
+}
+
+.banner-excerpt {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .image-label {
   position: absolute;
   color: black;
@@ -117,6 +128,9 @@
     transform: translate(0, -50%);
     left: auto;
     font-size: 3rem;
+  }
+  .banner {
+    grid-template-columns: 1fr 1fr;
   }
 }
 

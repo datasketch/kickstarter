@@ -5,6 +5,7 @@ layout: wearables
 url: /es/recompensas/accesorios
 weight: 2
 banner: /img/rewards/wearables_banner.png
+description: Write description here about wearables
 label: true
 items:
   - image: img/rewards/tote_aborto.png
