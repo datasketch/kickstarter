@@ -4,12 +4,16 @@
   width: 100%;
 }
 
-.md-content * {
+.md-content > * {
   margin: 0 0 1rem;
 }
 
 .md-content p {
   line-height: 2;
+}
+
+.md-content > p img {
+  margin-bottom: 1rem;
 }
 
 .md-content h1:not(.md-content-title),

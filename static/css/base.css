@@ -11,6 +11,10 @@ body {
   overflow-x: hidden;
 }
 
+body.no-scroll {
+  overflow: hidden;
+}
+
 .bold {
   font-weight: 800;
   letter-spacing: 0.07em;
@@ -42,6 +46,7 @@ h6 {
   text-align: center;
 }
 
+button.button,
 a.button {
   text-decoration: none;
   border: 1px solid #1b0d20;
@@ -50,9 +55,17 @@ a.button {
   padding: 8px;
 }
 
+button.button:hover,
 a.button:hover {
   color: #e515aa;
   border: 1px solid #e515aa;
+}
+
+.container {
+  margin: 0 auto !important;
+  max-width: 100%;
+  padding: 0 1rem;
+  width: 100%;
 }
 
 .pink {
@@ -92,4 +105,78 @@ a.button:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+@media screen and (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+/* Shortcodes */
+.images-picker .button {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.lightbox-wrapper {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.9);
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  padding: 1.5rem 0;
+  overflow-y: scroll;
+}
+
+.lightbox-wrapper.active {
+  display: flex;
+}
+
+.lightbox {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+.lightbox-header {
+  text-align: right;
+  margin-bottom: 1.5rem;
+}
+
+.lightbox-header button {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 1.875rem;
+  cursor: pointer;
+}
+
+.lightbox img:not(:last-of-type) {
+  margin-bottom: 1.5rem;  
+}
+
+.lightbox img:last-of-type {
+  margin-bottom: 0 !important;
 }

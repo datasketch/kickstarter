@@ -1,8 +1,21 @@
 ---
-title: "#SaveTheData Press Kit"
+title: "Press Kit"
 author: "Juan Pablo Marín Díaz"
 date: 2019-08-24
 last_updated: 2019-08-24
+menu: main
+gallery:
+  facebook:
+  - https://picsum.photos/id/2/800/450
+  - https://picsum.photos/id/10/800/450
+  twitter:
+  - https://picsum.photos/id/100/800/450
+  - https://picsum.photos/id/1000/800/450
+  - https://picsum.photos/id/1001/800/450
+  linkedin:
+  - https://picsum.photos/id/1002/800/450
+  - https://picsum.photos/id/1003/800/450
+  - https://picsum.photos/id/1004/800/450
 ---
 
 # Get inspiration
@@ -58,6 +71,8 @@ We need support from different users worldwide, so we develop more web data apps
 
 
 # Images
+
+{{< images_picker >}}
 
 
 ![save-the-data](/img/kit/save-the-data-squared.png)

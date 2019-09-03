@@ -1,10 +1,3 @@
-.container {
-  margin: 0 auto;
-  max-width: 100%;
-  padding: 0 1rem;
-  width: 100%;
-}
-
 img {
   max-width: 100%;
 }
@@ -110,17 +103,7 @@ img {
   color: #4a5568;
 }
 
-@media screen and (min-width: 640px) {
-  .container {
-    max-width: 640px;
-  }
-}
-
 @media screen and (min-width: 768px) {
-  .container {
-    max-width: 768px;
-    margin: 0 auto;
-  }
   .cards {
     grid-gap: 1.5rem;
     display: grid;
@@ -141,17 +124,5 @@ img {
   }
   .banner {
     grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .container {
-    max-width: 1024px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
   }
 }
