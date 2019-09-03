@@ -5,7 +5,8 @@ layout: wearables
 url: /es/recompensas/accesorios
 weight: 2
 banner: /img/rewards/wearables_banner.png
-description: Write description here about wearables
+description:  |
+    Cómo hacer que los ciudadanos interactúen con el contenido basado en datos? Estamos transformando nuestras historias en productos físicos: una plataforma para democratizar el acceso al conocimiento y a problemáticas relevantes en nuestra sociedad. Todo con diseños de datos y moda.
 label: true
 items:
   - image: img/rewards/tote_aborto.png
