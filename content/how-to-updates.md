@@ -15,6 +15,11 @@ last_updated: 2019-08-24
 
 {{< float "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
 
+## Day 6 and 7
+
+End of first week. The past two days were more about planning the next steps. Sent a bunch of invitations through linked in, got a few interesting questions from people in the slack channels we posted (we now have a [FAQ page](/faq)). The donations in the past few days have been mostly from friends en family, not ideal. We have got around 1.7k hits in the project web pages but we don't have any conversions from random people on the internet that was not before acquainted with our work: Big Problem. This is why we rearranged the project site to emphasize the rewards, let's see if that works. We are going to test that with a few ads.
+
+
 ## Day 5
 
 Got a fair amount of donations from the folks we were with at the Open Data conference. Worked on promoting on different slack channels and preparing, got some good positive feedback from people who work with data about the video. Ran a few ads to test the market in the US. We expect some conclusions about the tests in 2 days.
