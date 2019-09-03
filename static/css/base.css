@@ -32,6 +32,10 @@ h6 {
   font-size: calc(16px + (27 - 16) * ((100vw - 768px) / (2560 - 320)));
 }
 
+img {
+  max-width: 100%;
+}
+
 .title {
   text-align: center;
 }

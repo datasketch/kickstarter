@@ -1,5 +1,4 @@
 ---
-title: '#SaveTheData'
 team:
   - name: Juan Pablo Marín
     description: Electronic engineer with a master's degree in Computational Statistics. Expert in Data Science with applications in multiple areas such as Economics, Hydrology and Journalism.

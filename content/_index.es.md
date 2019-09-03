@@ -1,5 +1,4 @@
 ---
-title: '#SaveTheData'
 team:
   - name: Juan Pablo Marín
     description: Ingeniero electrónico con máster en estadística computacional. Experto en ciencia de datos con aplicaciones en múltiples áreas como la economía, hidrología y periodismo.

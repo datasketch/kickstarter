@@ -5,6 +5,47 @@
   width: 100%;
 }
 
+.reward-banners {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.reward-banner {
+  display: block;
+  position: relative;
+  text-decoration: none;
+}
+
+.reward-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+
+.banner {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1.5rem;
+}
+
+.banner-excerpt {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.image-label {
+  position: absolute;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 3.5rem;
+  top: 1rem;
+  left: 50%;
+  transform: translate(-50%, 0)
+}
+
 .card {
   border: 1px solid #edf2f7;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.06);
@@ -59,6 +100,12 @@
   padding: 5px 10px;
 }
 
+.excerpt {
+  line-height: 1.5;
+  font-size: 13px;
+  color: #4a5568;
+}
+
 @media screen and (min-width: 640px) {
   .container {
     max-width: 640px;
@@ -73,10 +120,23 @@
   .cards {
     grid-gap: 1.5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
   }
   .card {
     margin-bottom: 0;
+  }
+  .reward-banners {
+    grid-template-columns: 1fr 1fr;
+  }
+  .image-label {
+    top: 50%;
+    right: 1rem;
+    transform: translate(0, -50%);
+    left: auto;
+    font-size: 3rem;
+  }
+  .banner {
+    grid-template-columns: 1fr 1fr;
   }
 }
 

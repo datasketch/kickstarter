@@ -1,5 +1,5 @@
 <nav>
-  <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}"><img id="logo" src="/img/logo_bold.svg" alt="Datasketch logo"/></a>
+  <a href="{{ or .Site.LanguagePrefix .Site.BaseURL }}"><img id="logo" src="/img/logo_bold.svg" alt="Datasketch logo"/></a>
   <div class="socialmedia">
     <a href="https://twitter.com/datasketch"><img class="icon" src="/img/twitter.svg" alt="Twitter"/></a>
     <a href="mailto: info@datasketch.co"><img class="icon" src="/img/mail.svg" alt="Email"/></a>

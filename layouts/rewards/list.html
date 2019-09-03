@@ -1,2 +1,16 @@
+{{ define "head" }}
+  <link rel="stylesheet" href='{{ "css/rewards.css" | absURL }}'>
+{{ end }}
+
 {{ define "body" }}
+  <div class="reward-banners">
+    {{ range where .Pages "Section" "rewards" }}
+      <a href="{{ .Permalink }}" class="reward-banner">
+        <img src="{{ .Params.banner }}" alt="">
+        {{ if .Params.label }}
+          <p class="image-label">{{ .Title }}</p>
+        {{ end }}
+      </a>
+    {{ end }}
+  </div>
 {{ end }}
