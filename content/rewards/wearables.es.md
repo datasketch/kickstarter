@@ -1,8 +1,11 @@
 ---
-title: Wearables
+title: Accesorios
 type: reward
 layout: wearables
-url: /es/recompensas/accesorios
+url: /es/recompensas/
+weight: 2
+banner: /img/rewards/wearables_banner.png
+label: true
 items:
   - image: img/rewards/tote_aborto.png
     design: Siete legales
