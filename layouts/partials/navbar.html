@@ -1,5 +1,14 @@
 <nav>
-  <a href="{{ or .Site.LanguagePrefix .Site.BaseURL }}"><img id="logo" src="/img/logo_bold.svg" alt="Datasketch logo"/></a>
+  <div class="flex">
+    {{ if .Site.Menus.main }}
+      <button class="button-bars pink">
+        <i class="fa fa-bars"></i>
+        <i class="fa fa-times"></i>
+        {{ partial "menu.html" . }}
+      </button>
+    {{ end }}
+    <a href="{{ or .Site.LanguagePrefix .Site.BaseURL }}"><img id="logo" src="/img/logo_bold.svg" alt="Datasketch logo"/></a>
+  </div>
   <div class="socialmedia">
     <a href="https://twitter.com/datasketch"><img class="icon" src="/img/twitter.svg" alt="Twitter"/></a>
     <a href="mailto: info@datasketch.co"><img class="icon" src="/img/mail.svg" alt="Email"/></a>

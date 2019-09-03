@@ -1,8 +1,9 @@
 ---
-title: "#SaveTheData Campaign Updates"
+title: "Campaign Updates"
 author: "Juan Pablo Marín Díaz"
 date: 2019-08-24
 last_updated: 2019-08-24
+menu: main
 ---
 
 {{< button "CHECK OUT OUR PROCESS" "/how-to-launch-kickstarter-perimortem" >}}

@@ -24,3 +24,82 @@ nav .socialmedia .icon:hover {
   width: auto;
   height: calc(18px + (35 - 18) * ((100vw - 320px) / (2560 - 320)));
 }
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.button-bars {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.125rem;
+  margin-right: .75rem;
+  position: relative;
+  padding: 0;
+}
+
+.button-bars .fa.fa-times,
+.button-bars.active .fa.fa-bars {
+  display: none;
+}
+
+.button-bars.active .fa.fa-times,
+.button-bars .fa.fa-bars {
+  display: inline;
+}
+
+.button-bars.active .menu-wrapper {
+  display: inline-block
+}
+
+.menu-wrapper {
+  background: #fff;
+  border: 2px solid #e515aa;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  display: none;
+  left: -0.5rem;
+  margin-top: 10px;
+  min-width: max-content;
+  position: absolute;
+  top: 100%;
+  z-index: 30;
+}
+
+.menu-wrapper:before {
+  border: 2px solid #e515aa;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  background: #fff;
+  content: '';
+  display: inline-block;
+  height: 1rem;
+  left: .875rem;
+  position: absolute;
+  top: 0;
+  transform: translate(-50%, -50%) rotate(45deg);
+  width: 1rem;
+}
+
+.menu {
+  padding: 1.5rem;
+  text-align: left
+}
+
+.menu-link:not(:last-of-type){
+  margin-bottom: .875rem;
+}
+
+.menu-link a {
+  color: #1b0d20;
+  font-size: 0.875rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu-link a:hover {
+  color: #e515aa;
+}

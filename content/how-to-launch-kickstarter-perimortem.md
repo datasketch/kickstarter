@@ -1,8 +1,9 @@
 ---
-title: "#SaveTheData Kickstarter Perimortem"
+title: "Kickstarter Perimortem"
 author: "Juan Pablo Marín Díaz"
 date: 2019-08-24
 last_updated: 2019-08-24
+menu: main
 ---
 
 {{< float "https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=ks_our_campaign_own-post&utm_medium=own-post&utm_campaign=ks_campaign" >}}
