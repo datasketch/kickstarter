@@ -2,7 +2,7 @@
 title: Accesorios
 type: reward
 layout: wearables
-url: /es/recompensas/
+url: /es/recompensas/accesorios
 weight: 2
 banner: /img/rewards/wearables_banner.png
 label: true
