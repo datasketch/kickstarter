@@ -4,7 +4,8 @@
   </div>
   <div class="card-body">
     <small class="title-badge">{{ .product }}</small>
-    <p>{{ .design }}</p>
+    <p class="bold">{{ .design }}</p>
+    <p class="excerpt">{{ .description | truncate 120 }}</p>
     <small class="title-badge">{{ i18n "categories" }}</small>
     <p>
       {{ range .categories }}
