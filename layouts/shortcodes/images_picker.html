@@ -1,6 +1,8 @@
 <div class="images-picker">
   {{ range $choice, $images := $.Page.Params.gallery }}
     <button class="button image-choice" data-choice="{{ $choice }}"><span class="bold">{{ $choice }}</span></button>
+  {{ end }}
+  {{ range $choice, $images := $.Page.Params.gallery }}
     <div class="lightbox-wrapper" id="{{ $choice }}-lightbox">
       <div class="lightbox container">
         <div class="lightbox-header">
@@ -17,17 +19,25 @@
 </div>
 <script>
   const choices = document.querySelectorAll('.images-picker .image-choice');
+  let lightbox, button;
   choices.forEach(function (choice) {
     choice.addEventListener('click', function () {
       const choice = this.dataset.choice;
-      const lightbox = document.getElementById(choice + '-lightbox');
-      const dismiss = lightbox.querySelector('.lightbox-dismiss')
+      if (button) {
+        button.classList.remove('active');
+      }
+      if (lightbox) {
+        lightbox.classList.remove('active');
+      }
+      button = this;
+      lightbox = document.getElementById(choice + '-lightbox');
+      const dismiss = lightbox.querySelector('.lightbox-dismiss');
+      button.classList.add('active');
       lightbox.classList.add('active');
-      document.body.classList.add('no-scroll');
       dismiss.addEventListener('click', function () {
         lightbox.classList.remove('active');
-        document.body.classList.remove('no-scroll');
-      })
+        button.classList.remove('active');
+      });
     });
   });
 </script>

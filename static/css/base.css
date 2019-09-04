@@ -56,7 +56,8 @@ a.button {
 }
 
 button.button:hover,
-a.button:hover {
+a.button:hover,
+button.button.active {
   color: #e515aa;
   border: 1px solid #e515aa;
 }
@@ -140,24 +141,10 @@ a.button:hover {
 
 .lightbox-wrapper {
   display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background: rgba(255, 255, 255, 0.9);
-  width: 100%;
-  height: 100%;
-  z-index: 9999;
-  padding: 1.5rem 0;
-  overflow-y: scroll;
 }
 
 .lightbox-wrapper.active {
   display: flex;
-}
-
-.lightbox {
-  margin-top: auto !important;
-  margin-bottom: auto !important;
 }
 
 .lightbox-header {
