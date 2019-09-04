@@ -1,24 +1,61 @@
-{{ define "head" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet"> 
   <link rel="stylesheet" href='{{ "css/rewards.css" | absURL }}'>
-{{ end }}
-
-{{ define "body" }}
-  {{ partial "reward_banner.html" . }}
-  <!-- Wearables -->
-  <div class="container" style="padding-top: 1rem; padding-bottom: 1rem">
-    <h2 class="pink" style="margin: 32px 0; font-weight: bold; font-size: 1.875rem;">{{ i18n "wearable" }}</h2>
-    <div class="cards">
-      {{ range .Params.items }}
-        {{ partial "wearable_card.html" . }}
-      {{ end }}
+  <title>{{ .Title }} · {{ .Site.Title }}</title>
+</head>
+<body>
+  <div class="wrapper min-h-full">
+    <div class="cell">
+      <div class="cell-content min-h-full flex-column">
+        <div class="cell-body flex-grow">
+          <p class="mb-4">
+            <span class="block">Wear</span>
+            <span class="text-casablanca">data</span>.
+          </p>
+          <p class="mb-4">
+            <span class="block">Transfer</span>
+            <span class="text-casablanca">knowledge</span>.
+          </p>
+          <p class="mb-8">
+            <span class="block">Be an</span>
+            <span class="text-casablanca">activist</span>.
+          </p>
+        </div>
+        <div class="cell-footer">
+          <p class="text-sm font-normal leading-tight">All of our designs are data visualizations about social issues such as violence against the LGBT community or pregnancy in young girls. We aim to bring awareness to these issues through wearable items.</p>
+        </div>
+      </div>
     </div>
-    <script>
-      const images = document.querySelectorAll('.card-image img')
-      images.forEach(function (image) {
-        image.addEventListener('error', function () {
-          this.src = '/img/missing.png'
-        })
-      })
-    </script>
+    <div class="cell">
+      <div class="first">
+        <img src='{{ "gif/camisetas1.gif" | absURL }}' alt="">
+      </div>
+      <div class="second">
+        <img src='{{ "gif/camisetas2.gif" | absURL }}' alt="">
+      </div>
+      <div class="third">
+        <img src='{{ "gif/camisetas3.gif" | absURL }}' alt="">
+      </div>
+    </div>
+    <div class="cell">
+      <div class="cell-content flex-column min-h-full">
+        <div class="cell-body flex-grow">
+          <p class="mb-8">
+            <span class="block">Want one?</span>
+            <span>You can get it by donating to our <span class="text-casablanca">Kickstarter project</span></span>.
+          </p>
+        </div>
+        <div class="cell-footer">
+          <img src='{{ "gif/howtofinal.gif" | absURL }}' alt="">
+          <a href="https://www.kickstarter.com/projects/datasketch/savethedata" class="block btn" target="_blank">Get it now!</a>
+        </div>
+      </div>
+    </div>
   </div>
-{{ end }}
+</body>
+</html>
