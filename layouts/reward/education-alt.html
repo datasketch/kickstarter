@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href='{{ "css/rewards-alt.css" | absURL }}'>
+  <title>{{ .Title }} · {{ .Site.Title }}</title>
+</head>
+<body>
+  <div class="wrapper min-h-full">
+    <div class="cell bg-crimson first p-8">
+      <div class="cell-content min-h-full flex flex-column">
+        <div class="cell-body flex-grow flex flex-column justify-center">
+          <p class="mb-4">
+            <span class="block">Learn</span>
+            <span class="text-selective-yellow">data</span>.
+          </p>
+          <p class="mb-4">
+            <span class="block">Become</span>
+            <span class="text-selective-yellow">an expert</span>.
+          </p>
+          <p class="mb-8">
+            <span class="block">Tell good</span>
+            <span class="text-selective-yellow">stories</span>.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="cell second bg-selective-yellow p-8">
+      <div class="cell-content">
+        <p>
+          <a href="https://www.kickstarter.com/projects/datasketch/savethedata?utm_source=website&utm_medium=landing-education" target="_blank">Back our <em>Kickstarter</em> campaign <span class="text-crimson">from 10USD</span></a>
+        </p>
+      </div>
+    </div>
+    <div class="cell third">
+      <div class="cell-content cell-absolute">
+        <img src='{{ "gif/ebook.gif" | absURL }}' alt="">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
