@@ -6,12 +6,19 @@ last_updated: 2019-08-24
 menu: main
 gallery:
   facebook:
-  - https://picsum.photos/id/2/800/450
-  - https://picsum.photos/id/10/800/450
+  - /img/kit/twfb/twfb1.png
+  - /img/kit/twfb/twfb2.png
+  - /img/kit/twfb/twfb3.png
+  - /img/kit/twfb/twfb4.png
+  - /img/kit/twfb/twfb5.png
+  - /img/kit/twfb/twfb6.png
   twitter:
-  - https://picsum.photos/id/100/800/450
-  - https://picsum.photos/id/1000/800/450
-  - https://picsum.photos/id/1001/800/450
+  - /img/kit/twfb/twfb1.png
+  - /img/kit/twfb/twfb2.png
+  - /img/kit/twfb/twfb3.png
+  - /img/kit/twfb/twfb4.png
+  - /img/kit/twfb/twfb5.png
+  - /img/kit/twfb/twfb6.png
   linkedin:
   - /img/kit/linkedin/lk1.png
   - /img/kit/linkedin/lk2.png
@@ -26,6 +33,11 @@ gallery:
   - /img/kit/instagram/ig4.png
   - /img/kit/instagram/ig5.png
   - /img/kit/instagram/ig6.png
+  - /img/kit/instagram/ig7.png
+  - /img/kit/instagram/ig8.png
+  - /img/kit/instagram/ig9.png
+  - /img/kit/instagram/ig10.png
+  - /img/kit/instagram/ig11.png
 ---
 
 # Get inspiration
@@ -84,8 +96,8 @@ We need support from different users worldwide, so we develop more web data apps
 
 {{< images_picker >}}
 
-
+<!-- 
 ![save-the-data](/img/kit/save-the-data-squared.png)
 ![save-the-data-wide](/img/kit/save-the-data-wide.png)
 
-[SEE MORE IMAGES HERE](kit-images)
+[SEE MORE IMAGES HERE](kit-images) -->
