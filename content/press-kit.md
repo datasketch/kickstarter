@@ -13,9 +13,19 @@ gallery:
   - https://picsum.photos/id/1000/800/450
   - https://picsum.photos/id/1001/800/450
   linkedin:
-  - https://picsum.photos/id/1002/800/450
-  - https://picsum.photos/id/1003/800/450
-  - https://picsum.photos/id/1004/800/450
+  - /img/kit/linkedin/lk1.png
+  - /img/kit/linkedin/lk2.png
+  - /img/kit/linkedin/lk3.png
+  - /img/kit/linkedin/lk4.png
+  - /img/kit/linkedin/lk5.png
+  - /img/kit/linkedin/lk6.png
+  instagram:
+  - /img/kit/instagram/ig1.png
+  - /img/kit/instagram/ig2.png
+  - /img/kit/instagram/ig3.png
+  - /img/kit/instagram/ig4.png
+  - /img/kit/instagram/ig5.png
+  - /img/kit/instagram/ig6.png
 ---
 
 # Get inspiration
